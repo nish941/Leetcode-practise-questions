@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nish941/Leetcode-practise-questions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/nish941/Leetcode-practise-questions/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/nish941/Leetcode-practise-questions/tree/master/2383-add-two-integers) |
+| [2619-categorize-box-according-to-criteria](https://github.com/nish941/Leetcode-practise-questions/tree/master/2619-categorize-box-according-to-criteria) |
 ## String
 |  |
 | ------- |
