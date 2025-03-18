@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nish941/Leetcode-practise-questions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nish941/Leetcode-practise-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/nish941/Leetcode-practise-questions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/nish941/Leetcode-practise-questions/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nish941/Leetcode-practise-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nish941/Leetcode-practise-questions/tree/master/0125-valid-palindrome) |
 | [0908-middle-of-the-linked-list](https://github.com/nish941/Leetcode-practise-questions/tree/master/0908-middle-of-the-linked-list) |
 ## Counting
