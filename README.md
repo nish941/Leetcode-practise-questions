@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nish941/Leetcode-practise-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nish941/Leetcode-practise-questions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/nish941/Leetcode-practise-questions/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/nish941/Leetcode-practise-questions/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/nish941/Leetcode-practise-questions/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nish941/Leetcode-practise-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nish941/Leetcode-practise-questions/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/nish941/Leetcode-practise-questions/tree/master/0038-count-and-say) |
+| [0412-fizz-buzz](https://github.com/nish941/Leetcode-practise-questions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/nish941/Leetcode-practise-questions/tree/master/1791-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nish941/Leetcode-practise-questions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
