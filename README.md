@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nish941/Leetcode-practise-questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/nish941/Leetcode-practise-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nish941/Leetcode-practise-questions/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/nish941/Leetcode-practise-questions/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nish941/Leetcode-practise-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nish941/Leetcode-practise-questions/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/nish941/Leetcode-practise-questions/tree/master/0038-count-and-say) |
+| [0383-ransom-note](https://github.com/nish941/Leetcode-practise-questions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nish941/Leetcode-practise-questions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/nish941/Leetcode-practise-questions/tree/master/0908-middle-of-the-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/nish941/Leetcode-practise-questions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
