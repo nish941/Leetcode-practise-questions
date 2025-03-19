@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nish941/Leetcode-practise-questions/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/nish941/Leetcode-practise-questions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nish941/Leetcode-practise-questions/tree/master/0412-fizz-buzz) |
+| [1894-merge-strings-alternately](https://github.com/nish941/Leetcode-practise-questions/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nish941/Leetcode-practise-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nish941/Leetcode-practise-questions/tree/master/0125-valid-palindrome) |
 | [0908-middle-of-the-linked-list](https://github.com/nish941/Leetcode-practise-questions/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/nish941/Leetcode-practise-questions/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
