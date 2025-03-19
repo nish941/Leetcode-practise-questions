@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nish941/Leetcode-practise-questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nish941/Leetcode-practise-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/nish941/Leetcode-practise-questions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/nish941/Leetcode-practise-questions/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/nish941/Leetcode-practise-questions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/nish941/Leetcode-practise-questions/tree/master/1791-richest-customer-wealth) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nish941/Leetcode-practise-questions/tree/master/0136-single-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nish941/Leetcode-practise-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
