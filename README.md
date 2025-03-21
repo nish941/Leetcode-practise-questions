@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nish941/Leetcode-practise-questions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/nish941/Leetcode-practise-questions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/nish941/Leetcode-practise-questions/tree/master/0412-fizz-buzz) |
+| [1236-n-th-tribonacci-number](https://github.com/nish941/Leetcode-practise-questions/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nish941/Leetcode-practise-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/nish941/Leetcode-practise-questions/tree/master/2383-add-two-integers) |
 | [2619-categorize-box-according-to-criteria](https://github.com/nish941/Leetcode-practise-questions/tree/master/2619-categorize-box-according-to-criteria) |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nish941/Leetcode-practise-questions/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/nish941/Leetcode-practise-questions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nish941/Leetcode-practise-questions/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/nish941/Leetcode-practise-questions/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
