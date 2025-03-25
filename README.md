@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nish941/Leetcode-practise-questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nish941/Leetcode-practise-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/nish941/Leetcode-practise-questions/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/nish941/Leetcode-practise-questions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/nish941/Leetcode-practise-questions/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/nish941/Leetcode-practise-questions/tree/master/1603-running-sum-of-1d-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nish941/Leetcode-practise-questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/nish941/Leetcode-practise-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nish941/Leetcode-practise-questions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/nish941/Leetcode-practise-questions/tree/master/0041-first-missing-positive) |
 | [0383-ransom-note](https://github.com/nish941/Leetcode-practise-questions/tree/master/0383-ransom-note) |
 ## Math
 |  |
